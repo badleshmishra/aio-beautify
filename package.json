@@ -1,0 +1,28 @@
+{
+  "name": "aio-beautify",
+  "version": "1.0.2",
+  "description": "A simple file beautifier tool",
+  "main": "bin/beautify.js",
+  "type": "module",
+  "bin": {
+    "beautify": "./bin/beautify.js"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^12.1.0",
+    "js-beautify": "^1.14.0"
+  },
+  "keywords": [
+    "beautify",
+    "formatter",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Badlesh Mishra",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badleshmishra/beautify"
+  }
+}

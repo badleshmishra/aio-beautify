@@ -1,6 +1,6 @@
 # AIO Beautify
 
-AIO Beautify is a simple command-line tool that beautifies all your HTML, CSS, and JavaScript files in a directory with a single command. Whether you're working on a single file or an entire project, AIO Beautify will format your code to be clean, readable, and consistent.
+AIO Beautify is a simple command-line tool that beautifies all your HTML, CSS, and JavaScript files in a directory with a single command. Whether you're working on a single file or an entire project, AIO Beautify will format your code to be clean, readable, and consistent.  hlo
 
 ## Features
 
